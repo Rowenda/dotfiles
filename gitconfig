@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = badbat_69@hotmail.com
+	name = baptiste giorgi
